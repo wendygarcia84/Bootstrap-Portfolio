@@ -1,7 +1,25 @@
+.picture {
+    position: relative;
+}
+.label {
+    position: absolute;
+    top: 60%;
+    width: 100%;
+    z-index: 99;
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(187, 75, 187);
+}
 /* I HAVE A HUGE SCREEN, I NEEDED TO ADD THIS ONE AS WELL */
 @media (max-width:1920px) { 
     .profile {
         width: 30%;
+    }
+    .portfolio {
+        width: 100%;
+        margin-right: .3em;
+        margin-bottom: 1em;
     }
  }
 
@@ -9,16 +27,25 @@
     .profile {
         width: 30%;
     }
+    .portfolio {
+        width: 100%;
+    }
  }
 
  @media (max-width: 768px) { 
     .profile {
         width: 50%;
     }
+    .portfolio {
+        width: 100%;
+    }
  }
 
  @media (max-width: 640px) { 
     .profile {
+        width: 100%;
+    }
+    .portfolio {
         width: 100%;
     }
  }
