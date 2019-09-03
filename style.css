@@ -3,14 +3,14 @@
     background-size: 95%;
     background-position: center;
     background-repeat: no-repeat;
-    height: 11em;
+    height: 10em;
 }
 #earphones {
     background-image: url(images/earphones.jpg);
 }
 
-#ipad {
-    background-image: url(images/ipad.jpg);
+#kyloren {
+    background-image: url(images/kyloren.jpg);
 }
 
 #mixer {
