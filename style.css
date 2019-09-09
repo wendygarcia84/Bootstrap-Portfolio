@@ -5,16 +5,16 @@
     background-repeat: no-repeat;
     height: 10em;
 }
-#earphones {
-    background-image: url(images/earphones.jpg);
+#giphy {
+    background-image: url(https://media.giphy.com/media/3oEjHOyNwE2iz1z6bC/giphy.gif);
 }
 
 #kyloren {
-    background-image: url(images/kyloren.jpg);
+    background-image: url(https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif);
 }
 
 #trivia {
-    background-image: url(images/despicable-me.jpg);
+    background-image: url(https://media.giphy.com/media/e6tWc6BpjyluE/giphy.gif);
 }
 
 #mobile {
