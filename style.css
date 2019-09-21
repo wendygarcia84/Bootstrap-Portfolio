@@ -1,3 +1,10 @@
+.card-header {
+    margin: 10px;
+    background-color: white; 
+    color: rgb(187, 75, 187); 
+    font-size: 2em;
+}
+
 .picture {
     margin: 1%;
     background-size: 95%;
@@ -21,8 +28,8 @@
     background-image: url(https://media.giphy.com/media/K0rQ0Btadepbi/giphy.gif);
 }
 
-#screen {
-    background-image: url(images/screen.jpg);
+#fanzy {
+    background-image: url(https://media.giphy.com/media/sZZqYbk0VDesE/giphy.gif);
 }
 .label {
     position: absolute;
@@ -35,6 +42,18 @@
     background-color: rgb(187, 75, 187);
 }
 
+.logo {
+    width: 40px;
+}
+
+.social-label {
+    clear: both;
+}
+
+.social {
+    margin: 10px;
+    float: left;
+}
 
 
 /* I HAVE A HUGE SCREEN, I NEEDED TO ADD THIS ONE AS WELL */
